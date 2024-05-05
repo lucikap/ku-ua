@@ -37,9 +37,9 @@ make -j12 V=99
 ```
 
 如果你有精力，甚至可以帮我写个更为精美和实用的README.md（我的邮箱169296793@qq.com）
+
 ##欢迎充电
 
-![ed4a58c8d971716c3a5368d5ab18709](https://github.com/lucikap/ku-ua/assets/133383664/a4b0b626-dbd9-46b3-b74b-500f32253bd2)
+![微信图片_20240505214303](https://github.com/lucikap/ku-ua/assets/133383664/8a930df4-83c1-4b87-a5f4-ba6b98176fd8)
 
-
-![微信图片_20240505214303](https://github.com/lucikap/ku-ua/assets/133383664/8b4fac42-5145-447d-81ab-609e3a72a153)
+![微信图片_20240505214253](https://github.com/lucikap/ku-ua/assets/133383664/56dff104-b16d-4934-b33a-a41ed0111cee)
