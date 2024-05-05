@@ -41,4 +41,5 @@ make -j12 V=99
 
 ![ed4a58c8d971716c3a5368d5ab18709](https://github.com/lucikap/ku-ua/assets/133383664/a4b0b626-dbd9-46b3-b74b-500f32253bd2)
 
-![5dfd831b21de609ac042e0665eb969a](https://github.com/lucikap/ku-ua/assets/133383664/44988b06-f1b7-427f-a844-47931c423951)
+
+![微信图片_20240505214303](https://github.com/lucikap/ku-ua/assets/133383664/8b4fac42-5145-447d-81ab-609e3a72a153)
