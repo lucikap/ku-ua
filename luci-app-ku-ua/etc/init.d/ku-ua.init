@@ -1,0 +1,18 @@
+#!/bin/sh /etc/rc.common
+
+START=99
+STOP=99
+
+start() {
+	echo "$(uci get ku-ua.config.predefined_ua)" > /sys/module/ku_ua/parameters/predefined_ua
+	logger "[ku-ua]新的User-Agent：$(uci get ku-ua.config.predefined_ua)"
+}
+
+stop() {
+	rmmod ku-ua
+}
+
+restart() {
+	rmmod ku-ua
+	insmod ku-ua
+}
