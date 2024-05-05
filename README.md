@@ -18,4 +18,21 @@
 2. 由于内核模块需要内核版本与模块的版本一致，多以大部分情况下仍需要去手动编译（做这个插件的初衷是为了能直接安装ipk包，但是发现不能实现这个目标时我立马转变了思维：不能让科技的门槛变得太低。。。开玩笑）
 3. 欢迎补充
 
+##食用方法
+```shell
+#进入openwrt源码所在目录
+git clone https://github.com/lucikap/ku-ua.git package/ku-ua
+
+make menuconfig
+#勾选内核模块
+Kernel modules  --->
+	Other modules  --->
+		<*> kmod-ku-ua
+#勾选界面支持（如果不需要自定义可以不选）
+LuCI  --->
+	3. Applications  --->
+		<*> luci-app-ku-ua
+make -j12 V=99
+```
+
 如果你有精力，甚至可以帮我写个更为精美和实用的README.md（我的邮箱169296793@qq.com）
