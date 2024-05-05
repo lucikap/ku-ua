@@ -40,4 +40,5 @@ make -j12 V=99
 ##欢迎充电
 
 ![ed4a58c8d971716c3a5368d5ab18709](https://github.com/lucikap/ku-ua/assets/133383664/a4b0b626-dbd9-46b3-b74b-500f32253bd2)
-![ed4a58c8d971716c3a5368d5ab18709](https://github.com/lucikap/ku-ua/assets/133383664/11fd6bfb-da8c-4109-a32a-0f11e9bd8a3b)
+
+![5dfd831b21de609ac042e0665eb969a](https://github.com/lucikap/ku-ua/assets/133383664/44988b06-f1b7-427f-a844-47931c423951)
