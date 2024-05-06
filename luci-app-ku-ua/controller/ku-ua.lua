@@ -13,7 +13,7 @@ function kn_log()
 
     local ku_ua_lines = {}
     for line in syslog:gmatch("[^\n]+") do
-        if line:find("ku-ua") then
+        if line:find("ku") then
             table.insert(ku_ua_lines, line)
         end
     end
